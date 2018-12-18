@@ -27,7 +27,7 @@ increase the quality of your report.
 
 **Please consider using the below template for reporting bugs**
 
-**Summary:** A breif description of the bug
+``**Summary:** A breif description of the bug
 
 **Steps to Reproduce:** Exact steps to reproduce the bug
 
@@ -35,7 +35,7 @@ increase the quality of your report.
 
 **Actual Result** What is actually happening in comparison to what is supposed to happen.
 
-**Additional Information:** If you have done tests, or otherwise have additional information, you should post it here.
+**Additional Information:** If you have done tests, or otherwise have additional information, you should post it here.``
 
 
 **Please be aware that the DB is currently set to 2.0.12. Please use this link to determine if your issues involves a later patch http://wowwiki.wikia.com/wiki/Patches/2.x**
